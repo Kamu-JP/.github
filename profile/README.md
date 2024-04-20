@@ -1,4 +1,4 @@
-# Welcome to Kamu Dev ( Kamu-JP )
+# Welcome to KAMU ( Kamu-JP )
 
 [Website](https://www.kamu.jp/) | [Main Developer](https://kamu.jp/about.html#techcat)
 
