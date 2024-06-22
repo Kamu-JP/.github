@@ -1,6 +1,11 @@
 # Welcome to KAMU ( Kamu-JP )
 
-[Website](https://www.kamu.jp/) | [Main Developer](https://kamu.jp/about.html#techcat)
+[Website](https://kamu.jp/)
+
+## Developers
+
+### DiamondGotCat (Main Developer)
+[GitHub](https://github.com/DiamondGotCat)
 
 <!--
 
