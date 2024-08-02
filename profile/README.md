@@ -1,4 +1,7 @@
-# Welcome to KAMU ( Kamu-JP )
+
+![Kakkoii](https://github.com/user-attachments/assets/4671e3b4-9966-43aa-955e-a3859c3d45db)
+
+# Welcome to KAMU (Kamu-JP)
 
 [Website](https://kamu.jp/)
 
