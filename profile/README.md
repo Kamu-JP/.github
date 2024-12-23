@@ -9,4 +9,4 @@ This is just a GitHub organization and is not currently a company.
 ## Developers
 
 ### DiamondGotCat (Main Developer)
-[GitHub](https://github.com/DiamondGotCat)
+| [GitHub](https://github.com/DiamondGotCat) |
