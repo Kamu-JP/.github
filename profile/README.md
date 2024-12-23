@@ -1,22 +1,12 @@
 
-![Kakkoii](https://github.com/user-attachments/assets/4671e3b4-9966-43aa-955e-a3859c3d45db)
+# 🌱 Introduction
+Welcome to my lab!
 
-# Welcome to KAMU (Kamu-JP)
+This is just a GitHub organization and is not currently a company.
 
-[Website](https://kamu.jp/)
+| [Kamu.jp](https://kamu.jp/) |
 
 ## Developers
 
 ### DiamondGotCat (Main Developer)
 [GitHub](https://github.com/DiamondGotCat)
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
